@@ -1,4 +1,4 @@
-### Hi there 👋
+### 마니또 운명의 상대 변경, 벌점 제거 문의받습니다
 
 <!--
 **dochi2350/dochi2350** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -13,4 +13,3 @@ Here are some ideas to get you started:
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
