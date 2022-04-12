@@ -5,4 +5,4 @@
 
 ![dochi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dochi2350&show_icons=true&theme=tokyonight)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dochi2350&layout=compact&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dochi2350&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
