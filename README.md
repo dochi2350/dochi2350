@@ -1,5 +1,5 @@
 ### dochi2350's profile
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
+![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=capsule%20render&fontSize=90)
 
 - 벌점 제거 문의받습니다
 - 문의 <a href="https://www.instagram.com/dochi_____">@dochi_____</a>
