@@ -7,4 +7,4 @@
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=dochi2350&theme=tokyonight&layout=compact&count_private=true&hide=CMake)](https://github.com/anuraghazra/github-readme-stats)
 
-[![dochi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dochi2350&range=last_30_days)](https://github.com/anuraghazra/github-readme-stats)
+[![dochi's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=dochi2350&range=last_7_days)](https://github.com/anuraghazra/github-readme-stats)
