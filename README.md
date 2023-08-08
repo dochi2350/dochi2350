@@ -1,7 +1,7 @@
 ### dochi2350's profile
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=?%20?%20?&fontSize=90)
-- Discord 6969#7474
+- Discord vespaaaaa
 
 ![dochi's GitHub stats](https://github-readme-stats.vercel.app/api?username=dochi2350&show_icons=true&theme=tokyonight&count_private=true)
 
